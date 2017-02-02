@@ -1,0 +1,96 @@
+html{
+  font-family: 'Titillium Web', sans-serif;
+  margin: 0 40px;
+}
+
+body{
+  background-image: url("https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRpQMazIH610O9QvFI9evUCy3LFuqGp2dJApco0dujh6TSx7NJx3F49M7Y");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+
+/* Header Section */
+
+
+h1{
+  font-size: 50px;
+  color: #0B216F;
+  text-align: left;
+  padding-top: 20px;
+  margin-left: 90px;
+}
+
+.header h3{
+  margin-left: 30px;
+  font-family: 'Titillium Web', sans-serif;
+}
+
+h2{
+  color: #324480;
+  font-family:'Pacifico', cursive;
+  font-weight: 100;
+  text-align: center;
+}
+
+h3{
+  font-family:'Pacifico', cursive;
+  font-weight: 100;
+  color: #0B216F;
+  font-size: 24px;
+}
+
+.header li{
+  color: #0B216F;
+  display:inline;
+  padding: 15px;
+}
+
+a{
+  text-decoration: none;
+}
+
+a:link{
+
+}
+a:visited{
+
+}
+
+a:hover{
+  text-decoration: none;
+  font-family: 'Pacifico', cursive;
+}
+
+.beaches{
+  margin-right: 50px;
+}
+
+.header{
+  padding-bottom: 100px;
+}
+
+/*Showcase*/
+
+.boxed{
+  border-bottom: 3px solid #e2e2e2;
+  text-align: center;
+  margin: 20px 275px;
+  padding: 40px;
+}
+
+.center-block{
+  border: 4px solid #e2e2e2;
+}
+
+
+/*Footer Section*/
+
+.footer{
+  text-align: right;
+  margin-top: 60px;
+  margin-right: 50px;
+  height: 50px;
+}

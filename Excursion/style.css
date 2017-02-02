@@ -1,0 +1,121 @@
+html{
+  margin: 0;
+}
+
+body{
+  margin: 0;
+  font-family: 'Exo 2', sans-serif;
+}
+
+/* Header Section */
+
+.header{
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: #000;
+}
+
+h1{
+  font-size: 50px;
+  font-weight: normal;
+  color: #fff;
+  text-align: center;
+}
+
+h5{
+  color: aquamarine;
+  font-size: 16px;
+  text-align: center;
+}
+
+.download{
+  text-decoration: none;
+  color: #AA97FF;
+}
+
+a:link{
+
+}
+
+a:visited{
+
+}
+
+a:hover{
+  color: #ffaa97;
+  text-decoration: none;
+}
+
+.video-center{
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 500px;
+}
+
+
+/* Middle Section */
+
+
+.middle{
+  padding-top: 50px;
+  background-color: #fff;
+}
+
+h2{
+  font-size: 42px;
+  font-weight: 300;
+  color: #000;
+  text-align: center;
+}
+
+h3{
+  color: #000;
+  font-size: 21px;
+  text-align: center;
+  font-weight: lighter;
+}
+
+.camping-center{
+  padding: 20px;
+}
+
+.middle img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 4px solid #e2e2e2;
+  height: 500px;
+  width: 500px;
+}
+
+/* Middle Section 2 */
+
+.mobile-center{
+  display: block;
+  height: 200px;
+  margin-right: auto;
+  margin-left: auto;
+  clear: both;
+}
+
+/* Footer Section */
+
+.footer{
+  padding-top: 100px;
+  clear: both;
+  background-color: #000;
+  padding-bottom: 10px;
+}
+
+.footer h2{
+  color: #fff;
+}
+
+h6{
+  margin-right: 25px;
+  text-align: right;
+  font-weight: lighter;
+  font-size: 14px;
+  color: #fff;
+}
